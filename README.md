@@ -146,3 +146,59 @@ Fact Table: This table contains transactional data, providing detailed informati
 
 ## Importing data into Power Bi
 Since the database for this project is MySQL, we'll need to import the datasets into Power BI by providing the database access credentials.
+
+## Data Model
+- Data modeling is essential, serving as the foundation for reports. All visualizations will be constructed based on the data model.
+- Inadequate data modeling adversely impacts the overall performance of the report.
+- Ensuring adherence to best practices in data modeling is essential. You can explore this blog post to familiarize yourself with these practices: [Link to Blog Post](https://addendanalytics.com/blog/data-modelling-best-practices).
+- In this project, we've implemented the Snowflake data modeling method.
+()
+
+## Dashboard designing
+The team will commence visual design based on the mockups received as requirements, creating measures as needed along the way.
+
+## Home view
+In the Home view, all the view buttons will be accessible. Users can navigate to specific view pages by clicking on the corresponding buttons.
+  - Finance View
+  - Sales View
+  - Marketing View
+  - Supply Chain View
+  - Executive View
+  - Customer and Product Performance
+  - Information Pop-up
+  - Support Pop-up
+  
+## Summative Report
+()
+
+## Finance View
+()
+
+### Filter Pop-up
+()
+
+### Information Pop-up
+()
+
+### Support pop-up
+()
+
+## Sales View
+()
+
+## Marketing View
+()
+
+## Supply Chain view
+()
+
+## Executive View
+()
+
+## Customer and Product Performance
+()
+
+You can access the complete report via this link: [Report](https://github.com/AnupamKNN/Business_Insight_360/tree/main/Report)
+
+## Project Outcome
+This report serves as a valuable tool for data-driven decision-making. It enables the exploration and resolution of numerous "why" questions based on various situations and scenarios.
