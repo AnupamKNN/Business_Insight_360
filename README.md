@@ -152,7 +152,8 @@ Since the database for this project is MySQL, we'll need to import the datasets 
 - Inadequate data modeling adversely impacts the overall performance of the report.
 - Ensuring adherence to best practices in data modeling is essential. You can explore this blog post to familiarize yourself with these practices: [Link to Blog Post](https://addendanalytics.com/blog/data-modelling-best-practices).
 - In this project, we've implemented the Snowflake data modeling method.
-()
+  
+![](https://github.com/AnupamKNN/Business_Insight_360/blob/main/Resources/01.%20Datamodel.png)
 
 ## Dashboard designing
 The team will commence visual design based on the mockups received as requirements, creating measures as needed along the way.
@@ -169,34 +170,39 @@ In the Home view, all the view buttons will be accessible. Users can navigate to
   - Support Pop-up
   
 ## Summative Report
-()
+
+![](https://github.com/AnupamKNN/Business_Insight_360/blob/main/Resources/02.%20Overview.gif)
+
 
 ## Finance View
-()
 
-### Filter Pop-up
-()
+![](https://github.com/AnupamKNN/Business_Insight_360/blob/main/Resources/03.%20Finance%20View.gif)
 
-### Information Pop-up
-()
-
-### Support pop-up
-()
 
 ## Sales View
-()
+
+[](https://github.com/AnupamKNN/Business_Insight_360/blob/main/Resources/04.%20Sales%20View.gif)
+
 
 ## Marketing View
-()
+
+![](https://github.com/AnupamKNN/Business_Insight_360/blob/main/Resources/05.%20Marketing%20View.gif)
+
 
 ## Supply Chain view
-()
+
+![](https://github.com/AnupamKNN/Business_Insight_360/blob/main/Resources/06.%20Supply%20Chain%20View.gif)
+
 
 ## Executive View
-()
+
+![](https://github.com/AnupamKNN/Business_Insight_360/blob/main/Resources/07.%20Executive%20View.gif)
+
 
 ## Customer and Product Performance
-()
+
+![](https://github.com/AnupamKNN/Business_Insight_360/blob/main/Resources/08.%20Customer%20and%20Product%20Performance.gif)
+
 
 You can access the complete report via this link: [Report](https://github.com/AnupamKNN/Business_Insight_360/tree/main/Report)
 
