@@ -1,5 +1,7 @@
 # Business Insight 360
 
+[Link to Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTlkZjBhZDgtMmU4NC00Y2IyLTk2YTMtZjRhNGRiYmY5MGQ4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 ## Project Overview
 
 AtliQ Hardware has experienced rapid growth over the past few years and has now decided to utilize PowerBI for data analytics within the company for the first time. This strategic move aims to outpace their market competitors and enable data-driven decision-making. The project is expected to address stakeholder inquiries across various aspects, including finance, sales, marketing, and supply chain.
@@ -203,8 +205,6 @@ In the Home view, all the view buttons will be accessible. Users can navigate to
 
 ![](https://github.com/AnupamKNN/Business_Insight_360/blob/main/Resources/08.%20Customer%20and%20Product%20Performance.gif)
 
-
-You can access the complete report via this link: [Report](https://github.com/AnupamKNN/Business_Insight_360/tree/main/Report)
 
 ## Project Outcome
 This report serves as a valuable tool for data-driven decision-making. It enables the exploration and resolution of numerous "why" questions based on various situations and scenarios.
